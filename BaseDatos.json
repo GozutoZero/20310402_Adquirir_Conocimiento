@@ -1,0 +1,14 @@
+[
+    {
+        "Usuario": "Hola",
+        "Bot": "Hola, De que quieres hablar?"
+    },
+    {
+        "Usuario": "Necesito un psicologo?",
+        "Bot": "No necesitas uno\nTE URGEN 3"
+    },
+    {
+        "Usuario": "Musica",
+        "Bot": "KuruKuruuuu"
+    }
+]
